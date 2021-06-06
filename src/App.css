@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+button, .card {
+  margin: 5px !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
